@@ -1,0 +1,33 @@
+c:\Documents and Settings\Damir\My Documents\Visual Studio 2008\Projects\UberTools\UberToolsModuleList\QuickTags\obj\Release\ResolveAssemblyReference.cache
+c:\Documents and Settings\Damir\My Documents\Visual Studio 2008\Projects\UberTools\UberToolsModuleList\QuickTags\obj\Release\UberTools.Modules.QuickTags.Forms.FormTags.resources
+c:\Documents and Settings\Damir\My Documents\Visual Studio 2008\Projects\UberTools\UberToolsModuleList\QuickTags\obj\Release\UberTools.Modules.QuickTags.Forms.FormTagsEdit.resources
+c:\Documents and Settings\Damir\My Documents\Visual Studio 2008\Projects\UberTools\UberToolsModuleList\QuickTags\obj\Release\UberTools.Modules.QuickTags.Forms.ModuleMainForm.resources
+c:\Documents and Settings\Damir\My Documents\Visual Studio 2008\Projects\UberTools\UberToolsModuleList\QuickTags\obj\Release\QuickTags.csproj.GenerateResource.Cache
+c:\Documents and Settings\Damir\My Documents\Visual Studio 2008\Projects\UberTools\UberToolsModuleList\QuickTags\bin\Release\QuickTags.dll
+c:\Documents and Settings\Damir\My Documents\Visual Studio 2008\Projects\UberTools\UberToolsModuleList\QuickTags\bin\Release\QuickTags.pdb
+c:\Documents and Settings\Damir\My Documents\Visual Studio 2008\Projects\UberTools\UberToolsModuleList\QuickTags\bin\Release\Common Library.dll
+c:\Documents and Settings\Damir\My Documents\Visual Studio 2008\Projects\UberTools\UberToolsModuleList\QuickTags\bin\Release\Gma.UserActivityMonitor.dll
+c:\Documents and Settings\Damir\My Documents\Visual Studio 2008\Projects\UberTools\UberToolsModuleList\QuickTags\bin\Release\Microsoft.SqlServerCe.Client.DLL
+c:\Documents and Settings\Damir\My Documents\Visual Studio 2008\Projects\UberTools\UberToolsModuleList\QuickTags\bin\Release\UberToolsPlugins.dll
+c:\Documents and Settings\Damir\My Documents\Visual Studio 2008\Projects\UberTools\UberToolsModuleList\QuickTags\bin\Release\Common Library.pdb
+c:\Documents and Settings\Damir\My Documents\Visual Studio 2008\Projects\UberTools\UberToolsModuleList\QuickTags\bin\Release\UberToolsPlugins.pdb
+c:\Documents and Settings\Damir\My Documents\Visual Studio 2008\Projects\UberTools\UberToolsModuleList\QuickTags\obj\Release\UberTools.Modules.QuickTags.FormKeyMarge.resources
+c:\Documents and Settings\Damir\My Documents\Visual Studio 2008\Projects\UberTools\UberToolsModuleList\QuickTags\obj\Release\QuickTags.dll
+c:\Documents and Settings\Damir\My Documents\Visual Studio 2008\Projects\UberTools\UberToolsModuleList\QuickTags\obj\Release\QuickTags.pdb
+c:\Documents and Settings\Damir\My Documents\Visual Studio 2008\Projects\UberTools\UberToolsModulesList\QuickTags\obj\Release\ResolveAssemblyReference.cache
+c:\Documents and Settings\Damir\My Documents\Visual Studio 2008\Projects\UberTools\UberToolsModulesList\QuickTags\obj\Release\UberTools.Modules.QuickTags.FormKeyMarge.resources
+c:\Documents and Settings\Damir\My Documents\Visual Studio 2008\Projects\UberTools\UberToolsModulesList\QuickTags\obj\Release\UberTools.Modules.QuickTags.Forms.FormTags.resources
+c:\Documents and Settings\Damir\My Documents\Visual Studio 2008\Projects\UberTools\UberToolsModulesList\QuickTags\obj\Release\UberTools.Modules.QuickTags.Forms.FormTagsEdit.resources
+c:\Documents and Settings\Damir\My Documents\Visual Studio 2008\Projects\UberTools\UberToolsModulesList\QuickTags\obj\Release\UberTools.Modules.QuickTags.Forms.ModuleMainForm.resources
+c:\Documents and Settings\Damir\My Documents\Visual Studio 2008\Projects\UberTools\UberToolsModulesList\QuickTags\obj\Release\QuickTags.csproj.GenerateResource.Cache
+c:\Documents and Settings\Damir\My Documents\Visual Studio 2008\Projects\UberTools\UberToolsModulesList\QuickTags\obj\Release\QuickTags.dll
+c:\Documents and Settings\Damir\My Documents\Visual Studio 2008\Projects\UberTools\UberToolsModulesList\QuickTags\obj\Release\QuickTags.pdb
+c:\Documents and Settings\Damir\My Documents\Visual Studio 2008\Projects\UberTools\UberToolsModulesList\QuickTags\bin\Release\QuickTags.dll
+c:\Documents and Settings\Damir\My Documents\Visual Studio 2008\Projects\UberTools\UberToolsModulesList\QuickTags\bin\Release\QuickTags.pdb
+c:\Documents and Settings\Damir\My Documents\Visual Studio 2008\Projects\UberTools\UberToolsModulesList\QuickTags\bin\Release\Common Library.dll
+c:\Documents and Settings\Damir\My Documents\Visual Studio 2008\Projects\UberTools\UberToolsModulesList\QuickTags\bin\Release\Gma.UserActivityMonitor.dll
+c:\Documents and Settings\Damir\My Documents\Visual Studio 2008\Projects\UberTools\UberToolsModulesList\QuickTags\bin\Release\Microsoft.SqlServerCe.Client.DLL
+c:\Documents and Settings\Damir\My Documents\Visual Studio 2008\Projects\UberTools\UberToolsModulesList\QuickTags\bin\Release\UberToolsPlugins.dll
+c:\Documents and Settings\Damir\My Documents\Visual Studio 2008\Projects\UberTools\UberToolsModulesList\QuickTags\bin\Release\Common Library.pdb
+c:\Documents and Settings\Damir\My Documents\Visual Studio 2008\Projects\UberTools\UberToolsModulesList\QuickTags\bin\Release\UberToolsPlugins.pdb
+c:\Documents and Settings\Damir\My Documents\Visual Studio 2008\Projects\UberTools\UberToolsModulesList\QuickTags\bin\Release\en\Microsoft.SqlServerCe.Client.resources.dll

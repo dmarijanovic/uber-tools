@@ -1,0 +1,580 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!--
+
+Uber tools tags description file.
+
+-->
+<tags>
+
+  <!--DATE object-->
+  <tag name="date" type="object">
+    <desctiption>Returns date and time</desctiption>
+    <tag name="now" type="object">
+      <syntax>{=date.now}</syntax>
+      <example>{=date.now}</example>
+      <result>2010-02-22 12:00:11</result>
+    </tag>
+    <tag name="date" type="object">
+      <syntax>{=date.date}</syntax>
+      <example>{=date.date}</example>
+      <result>2010-02-22</result>
+    </tag>
+    <tag name="time" type="object">
+      <syntax>{=date.time}</syntax>
+      <example>{=date.time}</example>
+      <result>12:00:11</result>
+    </tag>
+    <tag name="year" type="object">
+      <syntax>{=date.year}</syntax>
+      <example>{=date.year}</example>
+      <result>2010</result>
+    </tag>
+    <tag name="month" type="object">
+      <syntax>{=date.month}</syntax>
+      <example>{=date.month}</example>
+      <result>03</result>
+    </tag>
+    <tag name="day" type="object">
+      <syntax>{=date.day}</syntax>
+      <example>{=date.day}</example>
+      <result>24</result>
+    </tag>
+    <tag name="hour" type="object">
+      <syntax>{=date.hour}</syntax>
+      <example>{=date.hour}</example>
+      <result>23</result>
+    </tag>
+    <tag name="minute" type="object">
+      <syntax>{=date.minute}</syntax>
+      <example>{=date.minute}</example>
+      <result>45</result>
+    </tag>
+    <tag name="second" type="object">
+      <syntax>{=date.second}</syntax>
+      <example>{=date.second}</example>
+      <result>59</result>
+    </tag>
+  </tag>
+
+  <!--ACTIVE object-->
+  <tag name="active" type="object">
+    <desctiption>Provides access to the active data object</desctiption>
+    <tag name="fetch" type="object">
+      <tag name="depth" type="integer">
+        <tag name="column" type="integer">
+          <syntax>{=active.fetch.[depth].[colimn]}</syntax>
+          <example>{=active.fetch.2.1}</example>
+          <result>Test text</result>
+        </tag>
+      </tag>
+    </tag>
+    <tag name="index" type="object">
+      <tag name="depth" type="integer">
+        <syntax>{=active.index.[depth]}</syntax>
+        <example>{=active.fetch.2}</example>
+        <result>2</result>
+      </tag>
+    </tag>
+    <tag name="counter" type="object">
+      <syntax>{=active.counter}</syntax>
+      <example>{=active.counter}</example>
+      <result>654</result>
+    </tag>
+  </tag>
+
+
+    <!--DATA object-->
+    <!-- TEST -->
+
+  <tag name="data" type="object">
+    <desctiption>Provides access to the active data object (This tag is deprecated)</desctiption>
+    <tag name="index" type="integer">
+      <syntax>{=data.[index]}</syntax>
+      <example>{=data.2}</example>
+      <result>Text from courent row and column index 2</result>
+      <desctiption>Column index</desctiption>
+    </tag>
+    <tag name="name" type="string">
+      <syntax>{=data.[name]}</syntax>
+      <example>{=data.2}</example>
+      <result>Text from courent row and column index 2</result>
+      <desctiption>Column name</desctiption>
+    </tag>
+  </tag>
+
+  <!--RowCollectionObject object-->
+  <tag name="object" type="object">
+    <desctiption>Provides access to data object by name</desctiption>
+    <tag name="fetch" type="object">
+      <tag name="Variable name" type="string">
+        <syntax>{=object.fetch."[Column ID/Name]"}</syntax>
+        <example>{=object.fetch."Name"}</example>
+        <result>Fetch curent value</result>
+      </tag>
+    </tag>
+    <tag name="fetchNext" type="object">
+      <tag name="Variable name" type="string">
+        <syntax>{=object.fetchnext."[Column ID/Name]"}</syntax>
+        <example>{=object.fetchnext.1}</example>
+        <result>Fetch next value</result>
+      </tag>
+    </tag>
+    <tag name="search" type="object">
+      <tag name="Search on column" type="integer">
+        <tag name="Return column value" type="integer">
+          <tag name="Regex expresion" type="string">
+            <syntax>{=object.search.[ID].[ID]."[regex]"}</syntax>
+            <example>{=object.search.1.1."refex"}</example>
+            <result>Fetch next value</result>
+          </tag>
+        </tag>
+      </tag>
+    </tag>
+  </tag>
+
+  <!--STRING object-->
+  <tag name="string" type="object">
+    <desctiption>Tags for string manipulation</desctiption>
+    <tag name="trim" type="object">
+      <desctiption>Remove blank spaces at the beginning and end of the text</desctiption>
+      <tag name="text" type="string">
+        <desctiption>Text on which to perform action</desctiption>
+        <syntax>{=string.trim.text}</syntax>
+        <example>{=string.trim. This text will be cut off from the empty character      }</example>
+        <result>This text will be cut off from the empty character</result>
+      </tag>
+    </tag>
+    <tag name="substring" type="object">
+      <desctiption>Return substring from a given text</desctiption>
+      <tag name="start" type="integer">
+        <desctiption>Start index</desctiption>
+        <tag name="length" type="integer">
+          <desctiption>Length of text</desctiption>
+          <tag name="text" type="string">
+            <desctiption>Text on which to perform action</desctiption>
+            <syntax>{=string.substring.start.length.text}</syntax>
+            <example>{=string.substring.6.12.Text example that will be cut}</example>
+            <result>example that</result>
+          </tag>
+        </tag>
+      </tag>
+    </tag>
+    <tag name="indexof" type="object">
+      <desctiption>Return index of first occurrence of a particular string</desctiption>
+      <tag name="searchString" type="string">
+        <desctiption>Text to search</desctiption>
+        <tag name="text" type="string">
+          <desctiption>Text on which to perform action</desctiption>
+          <syntax>{=string.indexof.searchString.text}</syntax>
+          <example>{=string.indexof. .pero peric}</example>
+          <result>5</result>
+        </tag>
+      </tag>
+    </tag>
+    <tag name="toupper" type="object">
+      <desctiption>Convert all the text in upper characters</desctiption>
+      <tag name="text" type="string">
+        <desctiption>Text on which to perform action</desctiption>
+        <syntax>{=string.toupper.text}</syntax>
+        <example>{=string.toupper.this text will be all uper case}</example>
+        <result>THIS TEXT WILL BE ALL UPER CASE</result>
+      </tag>
+    </tag>
+    <tag name="tolower" type="object">
+      <desctiption>Convert all the text in small characters</desctiption>
+      <tag name="text" type="string">
+        <desctiption>Text on which to perform action</desctiption>
+        <syntax>{=string.tolower.text}</syntax>
+        <example>{=string.tolower.THIS TEXT WILL BE ALL lowe case }</example>
+        <result>this text will be all lower case</result>
+      </tag>
+    </tag>
+    <tag name="replace" type="object">
+      <desctiption>Replacing a particular string with another</desctiption>
+      <tag name="oldText" type="string">
+        <desctiption>Old text</desctiption>
+        <tag name="newText" type="string">
+          <desctiption>New text</desctiption>
+          <tag name="text" type="string">
+            <desctiption>Text on which to perform action</desctiption>
+            <syntax>{=string.replace.oldText.newText.text}</syntax>
+            <example>{=string.replace.dirty old.clean.This is a dirty old town}</example>
+            <result>This is a clean town</result>
+          </tag>
+        </tag>
+      </tag>
+    </tag>
+    <tag name="split" type="object">
+      <desctiption>Split text and return value from selected index</desctiption>
+      <tag name="returnIndex" type="integer">
+        <desctiption>Return index</desctiption>
+        <tag name="splitString" type="string">
+          <desctiption>Split text pattern</desctiption>
+          <tag name="text" type="string">
+            <desctiption>Text on which to perform action</desctiption>
+            <syntax>{=string.split.returnIndex.splitString.text}</syntax>
+            <example>{=string.split.4. .James Tiberius "Jim" Kirk}</example>
+            <result>Kirk</result>
+          </tag>
+        </tag>
+      </tag>
+    </tag>
+  </tag>
+
+
+  <!--NTH object-->
+  <tag name="nth" type="object">
+    <desctiption>NTH specific tasks</desctiption>
+    <tag  name="swapzarez" type="object">
+      <tag name="text" type="string">
+        <syntax>{=nth.swapzarez.text}</syntax>
+        <example>{=nth.swapzarez.This text is for import, auto replace all charachter}</example>
+        <result><![CDATA[This text is for import<;> auto replace all charachter]]></result>
+      </tag>
+    </tag>
+    <tag  name="max160" type="object">
+      <tag name="text" type="string">
+        <syntax>{=nth.max160.text}</syntax>
+        <example>{=nth.max160.This tag is good for billing text chack, max size of billing text is 160 characher or text is no good, if text is more then 160 characher it will make wornig in system and output will be - - - E  R  R  O  R - - - - -  - like }</example>
+        <result>- - - E  R  R  O  R (text length  225)  - - -></result>
+      </tag>
+    </tag>
+
+  </tag>
+
+  <!--NUMBERS object-->
+
+  <tag name="number" type="object">
+    <desctiption>Number object - no desctiption</desctiption>
+    <tag  name="increment" type="object">
+      <tag name="startNumber" type="integer">
+        <tag name="incrementBy" type="integer">
+          <syntax>{=number.increment.startNumber.incrementBy}</syntax>
+          <example>{=number.increment.10.2}</example>
+          <result>10</result>
+        </tag>
+      </tag>
+    </tag>
+    <tag  name="getvalue" type="object">
+      <syntax>{=number.getvalue}</syntax>
+      <example>{=number.getvalue}</example>
+      <result>10</result>
+    </tag>
+  </tag>
+
+  <!--INPUT object-->
+  <tag name="input" type="object">
+    <desctiption>Allows user to enter data while script is working</desctiption>
+    <tag  name="once" type="object">
+      <tag  name="textbox" type="object">
+        <tag name="Caption name" type="string">
+          <syntax>{=input.once.textbox.[Text]}</syntax>
+          <example>{=input.once.textbox."User name"}</example>
+          <result>Input dialog</result>
+        </tag>
+      </tag>
+      <tag  name="combobox" type="object">
+        <tag name="Caption name" type="string">
+          <tag name="List name collection object" type="ArrayObject">
+            <tag name="List value collection object" type="ArrayObject">
+              <syntax>{=input.once.combobox."Caption name".[ArrayObject].[ArrayObject]}</syntax>
+              <example>{=input.once.combobox."Select user"."UserList"."UserValues"}</example>
+              <result>Input dialog</result>
+            </tag> 
+          </tag>
+        </tag>
+      </tag>
+    </tag>
+    <tag  name="repeat" type="object">
+      <tag name="Text" type="string">
+        <syntax>{=input.repeat.Text}</syntax>
+        <example>{=input.repeat.Text}</example>
+        <result>Input dialog</result>
+      </tag>
+    </tag>
+  </tag>
+
+  <!--VAR object-->
+  <tag name="var" type="object">
+    <desctiption>Keeps data for later use</desctiption>
+    <tag name="set" type="object">
+      <tag name="varName" type="string">
+        <tag name="Text" type="string">
+          <syntax>{=var.set.varName.text}</syntax>
+          <example>{=var.set.kw.{=string.trim. This text will be in temp var  }}</example>
+          <result>This text will be in temp var</result>
+        </tag>
+      </tag>
+    </tag>
+    <tag  name="get" type="object">
+      <tag name="varName" type="string">
+        <syntax>{=var.get.varName}</syntax>
+        <example>{=var.get.kw}</example>
+        <result>This text will be in temp var</result>
+      </tag>
+    </tag>
+  </tag>
+
+  <!--ARRAY object-->
+  <tag name="array" type="object">
+    <desctiption>Keeps data for later use as array</desctiption>
+    <tag name="add" type="object">
+      <tag name="Variable name" type="string">
+        <tag name="Value" type="string">
+          <syntax>{=array.add.[Variable name].[Value]}</syntax>
+          <example>{=array.add."CityList"."New York"}</example>
+          <result>This text will be added to CityList array var</result>
+        </tag>
+      </tag>
+    </tag>
+    <tag name="addOnce" type="object">
+      <tag name="Variable name" type="string">
+        <tag name="Value" type="string">
+          <syntax>{=array.addOnce.[Variable name].[Value]}</syntax>
+          <example>{=array.addOnce."CityList"."New York"}</example>
+          <result>This text will be added to CityList array var only if is not found in collection</result>
+        </tag>
+      </tag>
+    </tag>
+    <tag name="fetch" type="object">
+      <tag name="Variable name" type="string">
+        <syntax>{=array.fetch."[Variable name]"}</syntax>
+        <example>{=array.fetch.kw}</example>
+        <result>Fetch curent value</result>
+      </tag>
+    </tag>
+    <tag name="fetchNext" type="object">
+      <tag name="Variable name" type="string">
+        <syntax>{=array.fetchnext."[Variable name]"}</syntax>
+        <example>{=array.fetchnext.kw}</example>
+        <result>Fetch next value</result>
+      </tag>
+    </tag>
+    <tag name="empty" type="object">
+      <tag name="Variable name" type="string">
+        <syntax>{=array.empty."[Variable name]"}</syntax>
+        <example>{=array.empty."city"}</example>
+        <result></result>
+      </tag>
+    </tag>
+  </tag>
+
+  <!--FORMAT object-->
+  <tag name="format" type="object">
+    <desctiption>Format text</desctiption>
+    <tag name="removenewline" type="object">
+      <tag name="text" type="string">
+        <syntax>{=format.removenewline.text}</syntax>
+        <example>{=format.removenewline.row1\r\nrow2\r\nrow3}</example>
+        <result>row1row2row2</result>
+      </tag>
+    </tag>
+    <tag name="escape" type="object">
+      <tag name="text" type="string">
+        <syntax>{=format.escape.[text]}</syntax>
+        <example>{=format.escape."{=date.now}"}</example>
+        <result>\{=date.now\}</result>
+      </tag>
+    </tag>
+    <tag name="unescape" type="object">
+      <tag name="text" type="string">
+        <syntax>{=format.unescape.[text]}</syntax>
+        <example>{=format.unescape.\{=date.now\}}</example>
+        <result>{=date.now}</result>
+      </tag>
+    </tag>
+
+
+    <tag name="\" type="object">
+      <tag name="text" type="string">
+        <syntax>{=format.\.text}</syntax>
+        <example>{=format.\.file.txt}</example>
+        <result>file(*D*).txt</result>
+        <deprecated>true</deprecated>
+      </tag>
+    </tag>    
+  </tag>
+
+  <!--RANDOM object-->
+  <tag name="random" type="object">
+    <desctiption>Get random number or string</desctiption>
+    <tag  name="number" type="object">
+      <tag name="minValue" type="integer">
+        <tag name="maxValue" type="integer">
+          <syntax>{=random.number.minValue.maxValue}</syntax>
+          <example>{=random.number.100.200}</example>
+          <result>159</result>
+        </tag>
+      </tag>
+    </tag>
+    <tag name="string" type="object">
+      <tag name="maxChar" type="integer">
+        <syntax>{=random.string.maxChar}</syntax>
+        <example>{=random.string.5}</example>
+        <result>SGHET</result>
+      </tag>
+    </tag>    
+  </tag>
+
+  <!--MD5 object-->
+  <tag name="md5" type="object">
+    <desctiption>Get MD5 hash from text of file</desctiption>
+    <tag  name="text" type="object">
+      <tag name="inputText" type="string">
+        <syntax>{=md5.text.inputText}</syntax>
+        <example>{=md5.text.Get md5 hash from this text}</example>
+        <result>F50BC0BB13657722A88404E0D07FE644</result>
+      </tag>
+    </tag>
+    <tag name="file" type="object">
+      <tag name="filePath" type="integer">
+        <syntax>{=md5.file.filePath}</syntax>
+        <example>{=md5.file.c:\test.xml}</example>
+        <result>2FC8553CB60BD38706894DEB400E1C5F</result>
+      </tag>
+    </tag>
+  </tag>
+
+  <!--FILE object-->
+  <tag name="file" type="object">
+    <desctiption>File operation tasks, copy, move, delete ...</desctiption>
+    <tag  name="copy" type="object">
+      <tag name="source" type="string">
+        <tag name="destination" type="string">
+          <syntax>{=file.copy.source.destination}</syntax>
+          <example>{=file.copy.source.destination}</example>
+          <result>...</result>
+        </tag>
+      </tag>
+    </tag>
+    <tag  name="move" type="object">
+      <tag name="source" type="string">
+        <tag name="destination" type="string">
+          <syntax>{=file.copy.move.destination}</syntax>
+          <example>{=file.copy.move.destination}</example>
+          <result>TODO: </result>
+        </tag>
+      </tag>
+    </tag>
+    <tag  name="list" type="object">
+      <tag name="Array object to store list of files" type="ArrayObject">
+        <tag name="Folder list" type="string">
+          <syntax>{=file.list.[ArrayObject].[FolderPath]}</syntax>
+          <example>{=file.list."FileList"."C:\\"}</example>
+          <result>TODO: </result>
+        </tag>
+      </tag>
+    </tag>
+    <tag  name="copyall" type="object">
+      <tag name="Array object file list" type="ArrayObject">
+        <tag name="destination" type="string">
+          <syntax>{=file.copyall.[ArrayObject].[destination]}</syntax>
+          <example>{=file.copyall."FileList"."C:\\"}</example>
+          <result>TODO: </result>
+        </tag>
+      </tag>
+    </tag>
+  </tag>
+  
+  <!--DIR object-->
+  <tag name="dir" type="object">
+    <desctiption>Directory operation tasks, copy, move, delete ...</desctiption>
+    <tag  name="copy" type="object">
+      <tag name="source" type="string">
+        <tag name="destination" type="string">
+          <syntax>{=dir.copy.source.destination}</syntax>
+          <example>{=dir.copy.source.destination}</example>
+          <result>TODO: </result>
+        </tag>
+      </tag>
+    </tag>
+    <tag  name="move" type="object">
+      <tag name="source" type="string">
+        <tag name="destination" type="string">
+          <syntax>{=dir.move.source.destination}</syntax>
+          <example>{=dir.move.source.destination}</example>
+          <result>TODO: </result>
+        </tag>
+      </tag>
+    </tag>
+  </tag>
+
+  <!--GRAPHICS object-->
+  <tag name="graphics" type="object">
+    <desctiption>Graphics operation tasks</desctiption>
+    <tag name="image" type="object">
+      <tag name="analyzeanglepixels" type="object">
+        <tag name="filePath" type="string">
+          <syntax>{=graphics.image.analyzeanglepixels.[FilePath]}</syntax>
+          <example>{=graphics.image.analyzeanglepixels."c:\\image1.jpg"}</example>
+          <result>c:\image1.jpg,image1.jpg,640,480,24,454,194,490,26,446</result>
+        </tag>
+      </tag>
+      <tag name="analyzeanglepixels_csvcolumns" type="object">
+        <syntax>{=graphics.image.analyzeanglepixels_getcsvcolumns}</syntax>
+        <example>{=graphics.image.analyzeanglepixels_getcsvcolumns}</example>
+        <result>Path,FileName,Width,Height,Top,Bottom,Left,Right,BottomSize,RightSize</result>
+      </tag>
+    </tag>
+  </tag>
+
+  <!--Math object-->
+  <tag name="math" type="object">
+    <desctiption>Basic mathematical functions</desctiption>
+    <tag name="sum" type="object">
+      <tag name="numberOne" type="integer">
+        <tag name="numberTwo" type="integer">
+          <syntax>{=math.sum.[numberOne].[numberTwo]}</syntax>
+          <example>{=math.sum.5.10}</example>
+          <result>15</result>
+        </tag>
+      </tag>
+    </tag>
+    <tag name="subtract" type="object">
+      <tag name="numberOne" type="integer">
+        <tag name="numberTwo" type="integer">
+          <syntax>{=math.subtract.[numberOne].[numberTwo]}</syntax>
+          <example>{=math.subtract.10.5}</example>
+          <result>5</result>
+        </tag>
+      </tag>
+    </tag>
+    <tag name="multiplying" type="object">
+      <tag name="numberOne" type="integer">
+        <tag name="numberTwo" type="integer">
+          <syntax>{=math.multiplying.[numberOne].[numberTwo]}</syntax>
+          <example>{=math.multiplying.5.5}</example>
+          <result>25</result>
+        </tag>
+      </tag>
+    </tag>
+    <tag name="division" type="object">
+      <tag name="numberOne" type="integer">
+        <tag name="numberTwo" type="integer">
+          <syntax>{=math.division.[numberOne].[numberTwo]}</syntax>
+          <example>{=math.division.10.2}</example>
+          <result>5</result>
+        </tag>
+      </tag>
+    </tag>
+    <tag name="mod" type="object">
+      <tag name="numberOne" type="integer">
+        <tag name="numberTwo" type="integer">
+          <syntax>{=math.mod.[numberOne].[numberTwo]}</syntax>
+          <example>{=math.mod.11.2}</example>
+          <result>1</result>
+        </tag>
+      </tag>
+    </tag>
+    <tag name="abs" type="object">
+      <tag name="number" type="integer">
+        <syntax>{=math.abs.[number]}</syntax>
+        <example>{=math.abs.-11}</example>
+        <result>11</result>
+      </tag>
+    </tag>
+  </tag>
+
+
+</tags>

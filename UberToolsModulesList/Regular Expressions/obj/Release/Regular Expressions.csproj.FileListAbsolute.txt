@@ -1,0 +1,26 @@
+c:\Documents and Settings\Damir\My Documents\Visual Studio 2008\Projects\UberTools\UberToolsModuleList\Regular Expressions\obj\Release\ResolveAssemblyReference.cache
+c:\Documents and Settings\Damir\My Documents\Visual Studio 2008\Projects\UberTools\UberToolsModuleList\Regular Expressions\obj\Release\UberTools.Modules.RegularExpressions.PropertiesToolsWindowsProperty.resources
+c:\Documents and Settings\Damir\My Documents\Visual Studio 2008\Projects\UberTools\UberToolsModuleList\Regular Expressions\obj\Release\UberTools.Modules.RegularExpressions.PropertiesToolsWindows.resources
+c:\Documents and Settings\Damir\My Documents\Visual Studio 2008\Projects\UberTools\UberToolsModuleList\Regular Expressions\obj\Release\UberTools.Modules.RegularExpressions.Forms.ModuleMainForm.resources
+c:\Documents and Settings\Damir\My Documents\Visual Studio 2008\Projects\UberTools\UberToolsModuleList\Regular Expressions\obj\Release\Regular Expressions.csproj.GenerateResource.Cache
+c:\Documents and Settings\Damir\My Documents\Visual Studio 2008\Projects\UberTools\UberToolsModuleList\Regular Expressions\bin\Release\Regular Expressions.dll
+c:\Documents and Settings\Damir\My Documents\Visual Studio 2008\Projects\UberTools\UberToolsModuleList\Regular Expressions\bin\Release\Regular Expressions.pdb
+c:\Documents and Settings\Damir\My Documents\Visual Studio 2008\Projects\UberTools\UberToolsModuleList\Regular Expressions\bin\Release\Common Library.dll
+c:\Documents and Settings\Damir\My Documents\Visual Studio 2008\Projects\UberTools\UberToolsModuleList\Regular Expressions\bin\Release\UberToolsPlugins.dll
+c:\Documents and Settings\Damir\My Documents\Visual Studio 2008\Projects\UberTools\UberToolsModuleList\Regular Expressions\bin\Release\Common Library.pdb
+c:\Documents and Settings\Damir\My Documents\Visual Studio 2008\Projects\UberTools\UberToolsModuleList\Regular Expressions\bin\Release\UberToolsPlugins.pdb
+c:\Documents and Settings\Damir\My Documents\Visual Studio 2008\Projects\UberTools\UberToolsModuleList\Regular Expressions\obj\Release\Regular Expressions.dll
+c:\Documents and Settings\Damir\My Documents\Visual Studio 2008\Projects\UberTools\UberToolsModuleList\Regular Expressions\obj\Release\Regular Expressions.pdb
+c:\Documents and Settings\Damir\My Documents\Visual Studio 2008\Projects\UberTools\UberToolsModulesList\Regular Expressions\bin\Release\Regular Expressions.dll
+c:\Documents and Settings\Damir\My Documents\Visual Studio 2008\Projects\UberTools\UberToolsModulesList\Regular Expressions\bin\Release\Regular Expressions.pdb
+c:\Documents and Settings\Damir\My Documents\Visual Studio 2008\Projects\UberTools\UberToolsModulesList\Regular Expressions\bin\Release\Common Library.dll
+c:\Documents and Settings\Damir\My Documents\Visual Studio 2008\Projects\UberTools\UberToolsModulesList\Regular Expressions\bin\Release\UberToolsPlugins.dll
+c:\Documents and Settings\Damir\My Documents\Visual Studio 2008\Projects\UberTools\UberToolsModulesList\Regular Expressions\bin\Release\Common Library.pdb
+c:\Documents and Settings\Damir\My Documents\Visual Studio 2008\Projects\UberTools\UberToolsModulesList\Regular Expressions\bin\Release\UberToolsPlugins.pdb
+c:\Documents and Settings\Damir\My Documents\Visual Studio 2008\Projects\UberTools\UberToolsModulesList\Regular Expressions\obj\Release\ResolveAssemblyReference.cache
+c:\Documents and Settings\Damir\My Documents\Visual Studio 2008\Projects\UberTools\UberToolsModulesList\Regular Expressions\obj\Release\UberTools.Modules.RegularExpressions.PropertiesToolsWindowsProperty.resources
+c:\Documents and Settings\Damir\My Documents\Visual Studio 2008\Projects\UberTools\UberToolsModulesList\Regular Expressions\obj\Release\UberTools.Modules.RegularExpressions.PropertiesToolsWindows.resources
+c:\Documents and Settings\Damir\My Documents\Visual Studio 2008\Projects\UberTools\UberToolsModulesList\Regular Expressions\obj\Release\UberTools.Modules.RegularExpressions.Forms.ModuleMainForm.resources
+c:\Documents and Settings\Damir\My Documents\Visual Studio 2008\Projects\UberTools\UberToolsModulesList\Regular Expressions\obj\Release\Regular Expressions.csproj.GenerateResource.Cache
+c:\Documents and Settings\Damir\My Documents\Visual Studio 2008\Projects\UberTools\UberToolsModulesList\Regular Expressions\obj\Release\Regular Expressions.dll
+c:\Documents and Settings\Damir\My Documents\Visual Studio 2008\Projects\UberTools\UberToolsModulesList\Regular Expressions\obj\Release\Regular Expressions.pdb

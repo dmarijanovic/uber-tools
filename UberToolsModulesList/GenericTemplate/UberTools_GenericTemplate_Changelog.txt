@@ -1,0 +1,43 @@
+﻿UberTools - GenericTemplate
+
+
+- - Bugs - -
+- Bug: Promjeniti nacin parsiranja tagova, tagovi se trebaju parsirati po bloku - DONE (4 sata)
+- Bug: Log, Text [UNKNOWEN] u logu ispraviti u [UNKNOWN], (Common Library.dll) - DONE (45 min)
+- Bug: VarObject netreba imati povratnu vrijednos, izlogirati samo to - DONE (15 min)
+- Bug: Log, file writer usporava rad programa - DONE (1 h)
+- Bug: Napraviti objekt koji ce cuvati aktivni template, prilikom save opcije da ga utomacki prikaze - DONE
+
+- Bug: Ako module napravi error koji nije uhvatit srusit ce UberTools
+- Bug: Log, Cannot write to a closed TextWriter.
+
+
+- -  Req - -
+- Req: Set counter, setirati defaultni broj 1 - DONE (15 min)
+- Req: Text parametar staviti u navodnike, escape sve znakove izmedu - DONE - (2 sata)
+- Req: StringObject.split ako je index outofrange vrati prazan string umjesto Syntax error ali u logu izbaci worning - DONE (15 min)
+- Req: StringObject.substring ako je length presao scope treba vratiti ostatak texta umjesto Syntax error - Done (15 min)
+- Req: Dodati drop down list u template editoru za tagove - DONE (12 Sati)
+- Req: Dodati mogucnost da data stream iterira kroz drugi data stream, req. by blaz - DONE
+- Req: Dodati u input tag combo box mogucnost, req. by blazevic - DONE
+- Req: Dodati kategorije u template listu, po folderima - DONE
+- Req: Ukloniti dugme Pictures i ostatak starog coda vezano za tu funkcionalnost - DONE
+- Req: Sve varijable koje se upisuju u sucelje trebaju da se pamte i da se sacuvaju u tamplatu - DONE
+- Req: New template (blaz) - DONE
+
+
+- Req: Dodati filteriranje data objeta unutar samog obejekt i/ili prilikom importa
+- Req: Zapamti spliter propertia i main prozora
+
+- Req: Set variables tab dodati komentare kao \\
+- Req; Dodati worker window i cancel dugme prilikom izvodenja skripte
+- Req: Dodati IF naredbu
+- Req: Dodati mogucnost Funkcija
+- Req: Dodati brisanje loga iz memorije
+- Req: Dodati mogucnost da se log ne ispisuje na log formu
+- Req: Bolje organizirati logiranje
+- Req: Log, napraviti filter koji filtrira samo odredene funkcije ili ih ne prikazuje
+- Req: Log, time format fixati 1:29:58 u 01:29:58 
+- Req: Prije pustanja template u tagparsera ocistiti od komentara
+- Req: Tagovi bi trebali biti oznaceni drugom bojom
+

@@ -1,0 +1,18 @@
+C:\Documents and Settings\Damir\My Documents\Visual Studio 2008\Projects\NTHTools\UberToolsPlugins\UberToolsPlugins\bin\Release\UberToolsPlugins.dll
+C:\Documents and Settings\Damir\My Documents\Visual Studio 2008\Projects\NTHTools\UberToolsPlugins\UberToolsPlugins\bin\Release\UberToolsPlugins.pdb
+C:\Documents and Settings\Damir\My Documents\Visual Studio 2008\Projects\NTHTools\UberToolsPlugins\UberToolsPlugins\bin\Release\Common Library.dll
+C:\Documents and Settings\Damir\My Documents\Visual Studio 2008\Projects\NTHTools\UberToolsPlugins\UberToolsPlugins\bin\Release\Common Library.pdb
+C:\Documents and Settings\Damir\My Documents\Visual Studio 2008\Projects\NTHTools\UberToolsPlugins\UberToolsPlugins\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\Damir\My Documents\Visual Studio 2008\Projects\NTHTools\UberToolsPlugins\UberToolsPlugins\obj\Release\DamirM.Controls.TagControl.resources
+C:\Documents and Settings\Damir\My Documents\Visual Studio 2008\Projects\NTHTools\UberToolsPlugins\UberToolsPlugins\obj\Release\DamirM.Modules.ModuleMainFormBase.resources
+C:\Documents and Settings\Damir\My Documents\Visual Studio 2008\Projects\NTHTools\UberToolsPlugins\UberToolsPlugins\obj\Release\UberToolsPlugins.csproj.GenerateResource.Cache
+C:\Documents and Settings\Damir\My Documents\Visual Studio 2008\Projects\NTHTools\UberToolsPlugins\UberToolsPlugins\obj\Release\UberToolsPlugins.dll
+C:\Documents and Settings\Damir\My Documents\Visual Studio 2008\Projects\NTHTools\UberToolsPlugins\UberToolsPlugins\obj\Release\UberToolsPlugins.pdb
+c:\Documents and Settings\Damir\My Documents\Visual Studio 2008\Projects\UberTools\UberToolsModule\bin\Release\UberToolsPlugins.dll
+c:\Documents and Settings\Damir\My Documents\Visual Studio 2008\Projects\UberTools\UberToolsModule\bin\Release\UberToolsPlugins.pdb
+c:\Documents and Settings\Damir\My Documents\Visual Studio 2008\Projects\UberTools\UberToolsModule\obj\Release\ResolveAssemblyReference.cache
+c:\Documents and Settings\Damir\My Documents\Visual Studio 2008\Projects\UberTools\UberToolsModule\obj\Release\DamirM.Controls.TagControl.resources
+c:\Documents and Settings\Damir\My Documents\Visual Studio 2008\Projects\UberTools\UberToolsModule\obj\Release\DamirM.Modules.ModuleMainFormBase.resources
+c:\Documents and Settings\Damir\My Documents\Visual Studio 2008\Projects\UberTools\UberToolsModule\obj\Release\UberToolsPlugins.csproj.GenerateResource.Cache
+c:\Documents and Settings\Damir\My Documents\Visual Studio 2008\Projects\UberTools\UberToolsModule\obj\Release\UberToolsPlugins.dll
+c:\Documents and Settings\Damir\My Documents\Visual Studio 2008\Projects\UberTools\UberToolsModule\obj\Release\UberToolsPlugins.pdb

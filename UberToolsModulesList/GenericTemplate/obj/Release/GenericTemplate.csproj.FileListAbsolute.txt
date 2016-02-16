@@ -1,0 +1,91 @@
+C:\Documents and Settings\Damir\My Documents\Visual Studio 2008\Projects\NTHTools\UberToolsPlugins\TemplatesFiller\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\Damir\My Documents\Visual Studio 2008\Projects\NTHTools\UberToolsPlugins\TemplatesFiller\obj\Release\UberTools.Modules.GenericTemplate.RowCollectionNS.RowCollection.resources
+C:\Documents and Settings\Damir\My Documents\Visual Studio 2008\Projects\NTHTools\UberToolsPlugins\TemplatesFiller\obj\Release\UberTools.Modules.GenericTemplate.Controls.ToolsWindowsTagsInput.resources
+C:\Documents and Settings\Damir\My Documents\Visual Studio 2008\Projects\NTHTools\UberToolsPlugins\TemplatesFiller\obj\Release\UberTools.Modules.GenericTemplate.Controls.ToolsWindowsTagsParams.resources
+C:\Documents and Settings\Damir\My Documents\Visual Studio 2008\Projects\NTHTools\UberToolsPlugins\TemplatesFiller\obj\Release\UberTools.Modules.GenericTemplate.Controls.ToolsWindowsTemplates.resources
+C:\Documents and Settings\Damir\My Documents\Visual Studio 2008\Projects\NTHTools\UberToolsPlugins\TemplatesFiller\obj\Release\UberTools.Modules.GenericTemplate.Controls.ToolsWindowsTags.resources
+C:\Documents and Settings\Damir\My Documents\Visual Studio 2008\Projects\NTHTools\UberToolsPlugins\TemplatesFiller\obj\Release\UberTools.Modules.GenericTemplate.InputData.InputDataSource.resources
+C:\Documents and Settings\Damir\My Documents\Visual Studio 2008\Projects\NTHTools\UberToolsPlugins\TemplatesFiller\obj\Release\UberTools.Modules.GenericTemplate.RowCollectionNS.RowCollectionFilterDialog.resources
+C:\Documents and Settings\Damir\My Documents\Visual Studio 2008\Projects\NTHTools\UberToolsPlugins\TemplatesFiller\obj\Release\UberTools.Modules.GenericTemplate.Forms.TagsBuilder.resources
+C:\Documents and Settings\Damir\My Documents\Visual Studio 2008\Projects\NTHTools\UberToolsPlugins\TemplatesFiller\obj\Release\UberTools.Modules.GenericTemplate.Forms.Notepad.resources
+C:\Documents and Settings\Damir\My Documents\Visual Studio 2008\Projects\NTHTools\UberToolsPlugins\TemplatesFiller\obj\Release\UberTools.Modules.GenericTemplate.Forms.ModuleMainForm.resources
+C:\Documents and Settings\Damir\My Documents\Visual Studio 2008\Projects\NTHTools\UberToolsPlugins\TemplatesFiller\obj\Release\UberTools.Modules.GenericTemplate.RowCollectionNS.FormRowCollectionViewer.resources
+C:\Documents and Settings\Damir\My Documents\Visual Studio 2008\Projects\NTHTools\UberToolsPlugins\TemplatesFiller\obj\Release\UberTools.Modules.GenericTemplate.Properties.Resources.resources
+C:\Documents and Settings\Damir\My Documents\Visual Studio 2008\Projects\NTHTools\UberToolsPlugins\TemplatesFiller\obj\Release\GenericTemplate.csproj.GenerateResource.Cache
+C:\Documents and Settings\Damir\My Documents\Visual Studio 2008\Projects\NTHTools\UberToolsPlugins\TemplatesFiller\bin\Release\GenericTemplate.dll
+C:\Documents and Settings\Damir\My Documents\Visual Studio 2008\Projects\NTHTools\UberToolsPlugins\TemplatesFiller\bin\Release\GenericTemplate.pdb
+C:\Documents and Settings\Damir\My Documents\Visual Studio 2008\Projects\NTHTools\UberToolsPlugins\TemplatesFiller\bin\Release\Common Controls.dll
+C:\Documents and Settings\Damir\My Documents\Visual Studio 2008\Projects\NTHTools\UberToolsPlugins\TemplatesFiller\bin\Release\Common Library.dll
+C:\Documents and Settings\Damir\My Documents\Visual Studio 2008\Projects\NTHTools\UberToolsPlugins\TemplatesFiller\bin\Release\UberToolsPlugins.dll
+C:\Documents and Settings\Damir\My Documents\Visual Studio 2008\Projects\NTHTools\UberToolsPlugins\TemplatesFiller\bin\Release\Common Library.pdb
+C:\Documents and Settings\Damir\My Documents\Visual Studio 2008\Projects\NTHTools\UberToolsPlugins\TemplatesFiller\bin\Release\UberToolsPlugins.pdb
+C:\Documents and Settings\Damir\My Documents\Visual Studio 2008\Projects\NTHTools\UberToolsPlugins\TemplatesFiller\obj\Release\GenericTemplate.dll
+C:\Documents and Settings\Damir\My Documents\Visual Studio 2008\Projects\NTHTools\UberToolsPlugins\TemplatesFiller\obj\Release\GenericTemplate.pdb
+c:\Documents and Settings\Damir\My Documents\Visual Studio 2008\Projects\UberTools\UberToolsModuleList\GenericTemplate\bin\Release\GenericTemplate.dll
+c:\Documents and Settings\Damir\My Documents\Visual Studio 2008\Projects\UberTools\UberToolsModuleList\GenericTemplate\bin\Release\GenericTemplate.pdb
+c:\Documents and Settings\Damir\My Documents\Visual Studio 2008\Projects\UberTools\UberToolsModuleList\GenericTemplate\bin\Release\Common Controls.dll
+c:\Documents and Settings\Damir\My Documents\Visual Studio 2008\Projects\UberTools\UberToolsModuleList\GenericTemplate\bin\Release\Common Library.dll
+c:\Documents and Settings\Damir\My Documents\Visual Studio 2008\Projects\UberTools\UberToolsModuleList\GenericTemplate\bin\Release\Common Library.pdb
+c:\Documents and Settings\Damir\My Documents\Visual Studio 2008\Projects\UberTools\UberToolsModuleList\GenericTemplate\bin\Release\UberToolsPlugins.pdb
+c:\Documents and Settings\Damir\My Documents\Visual Studio 2008\Projects\UberTools\UberToolsModuleList\GenericTemplate\obj\Release\ResolveAssemblyReference.cache
+c:\Documents and Settings\Damir\My Documents\Visual Studio 2008\Projects\UberTools\UberToolsModuleList\GenericTemplate\obj\Release\UberTools.Modules.GenericTemplate.RowCollectionNS.RowCollection.resources
+c:\Documents and Settings\Damir\My Documents\Visual Studio 2008\Projects\UberTools\UberToolsModuleList\GenericTemplate\obj\Release\UberTools.Modules.GenericTemplate.Controls.ToolsWindowsTagsInput.resources
+c:\Documents and Settings\Damir\My Documents\Visual Studio 2008\Projects\UberTools\UberToolsModuleList\GenericTemplate\obj\Release\UberTools.Modules.GenericTemplate.Controls.ToolsWindowsTagsParams.resources
+c:\Documents and Settings\Damir\My Documents\Visual Studio 2008\Projects\UberTools\UberToolsModuleList\GenericTemplate\obj\Release\UberTools.Modules.GenericTemplate.Controls.ToolsWindowsTemplates.resources
+c:\Documents and Settings\Damir\My Documents\Visual Studio 2008\Projects\UberTools\UberToolsModuleList\GenericTemplate\obj\Release\UberTools.Modules.GenericTemplate.Controls.ToolsWindowsTags.resources
+c:\Documents and Settings\Damir\My Documents\Visual Studio 2008\Projects\UberTools\UberToolsModuleList\GenericTemplate\obj\Release\UberTools.Modules.GenericTemplate.InputData.InputDataSource.resources
+c:\Documents and Settings\Damir\My Documents\Visual Studio 2008\Projects\UberTools\UberToolsModuleList\GenericTemplate\obj\Release\UberTools.Modules.GenericTemplate.RowCollectionNS.RowCollectionFilterDialog.resources
+c:\Documents and Settings\Damir\My Documents\Visual Studio 2008\Projects\UberTools\UberToolsModuleList\GenericTemplate\obj\Release\UberTools.Modules.GenericTemplate.Forms.TagsBuilder.resources
+c:\Documents and Settings\Damir\My Documents\Visual Studio 2008\Projects\UberTools\UberToolsModuleList\GenericTemplate\obj\Release\UberTools.Modules.GenericTemplate.Forms.Notepad.resources
+c:\Documents and Settings\Damir\My Documents\Visual Studio 2008\Projects\UberTools\UberToolsModuleList\GenericTemplate\obj\Release\UberTools.Modules.GenericTemplate.Forms.ModuleMainForm.resources
+c:\Documents and Settings\Damir\My Documents\Visual Studio 2008\Projects\UberTools\UberToolsModuleList\GenericTemplate\obj\Release\UberTools.Modules.GenericTemplate.RowCollectionNS.FormRowCollectionViewer.resources
+c:\Documents and Settings\Damir\My Documents\Visual Studio 2008\Projects\UberTools\UberToolsModuleList\GenericTemplate\obj\Release\UberTools.Modules.GenericTemplate.Properties.Resources.resources
+c:\Documents and Settings\Damir\My Documents\Visual Studio 2008\Projects\UberTools\UberToolsModuleList\GenericTemplate\obj\Release\GenericTemplate.csproj.GenerateResource.Cache
+c:\Documents and Settings\Damir\My Documents\Visual Studio 2008\Projects\UberTools\UberToolsModuleList\GenericTemplate\obj\Release\GenericTemplate.dll
+c:\Documents and Settings\Damir\My Documents\Visual Studio 2008\Projects\UberTools\UberToolsModuleList\GenericTemplate\obj\Release\GenericTemplate.pdb
+C:\Users\Damir\Documents\Visual Studio 2008\Projects\UberTools\UberToolsModulesList\GenericTemplate\bin\Release\GenericTemplate.dll
+C:\Users\Damir\Documents\Visual Studio 2008\Projects\UberTools\UberToolsModulesList\GenericTemplate\bin\Release\GenericTemplate.pdb
+C:\Users\Damir\Documents\Visual Studio 2008\Projects\UberTools\UberToolsModulesList\GenericTemplate\bin\Release\Common Controls.dll
+C:\Users\Damir\Documents\Visual Studio 2008\Projects\UberTools\UberToolsModulesList\GenericTemplate\bin\Release\Common Library.dll
+C:\Users\Damir\Documents\Visual Studio 2008\Projects\UberTools\UberToolsModulesList\GenericTemplate\bin\Release\Common Library.pdb
+C:\Users\Damir\Documents\Visual Studio 2008\Projects\UberTools\UberToolsModulesList\GenericTemplate\bin\Release\UberToolsPlugins.pdb
+C:\Users\Damir\Documents\Visual Studio 2008\Projects\UberTools\UberToolsModulesList\GenericTemplate\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Damir\Documents\Visual Studio 2008\Projects\UberTools\UberToolsModulesList\GenericTemplate\obj\Release\UberTools.Modules.GenericTemplate.RowCollectionNS.RowCollection.resources
+C:\Users\Damir\Documents\Visual Studio 2008\Projects\UberTools\UberToolsModulesList\GenericTemplate\obj\Release\UberTools.Modules.GenericTemplate.Controls.ToolsWindowsTagsInput.resources
+C:\Users\Damir\Documents\Visual Studio 2008\Projects\UberTools\UberToolsModulesList\GenericTemplate\obj\Release\UberTools.Modules.GenericTemplate.Controls.ToolsWindowsTagsParams.resources
+C:\Users\Damir\Documents\Visual Studio 2008\Projects\UberTools\UberToolsModulesList\GenericTemplate\obj\Release\UberTools.Modules.GenericTemplate.Controls.ToolsWindowsTemplates.resources
+C:\Users\Damir\Documents\Visual Studio 2008\Projects\UberTools\UberToolsModulesList\GenericTemplate\obj\Release\UberTools.Modules.GenericTemplate.Controls.ToolsWindowsTags.resources
+C:\Users\Damir\Documents\Visual Studio 2008\Projects\UberTools\UberToolsModulesList\GenericTemplate\obj\Release\UberTools.Modules.GenericTemplate.InputData.InputDataSource.resources
+C:\Users\Damir\Documents\Visual Studio 2008\Projects\UberTools\UberToolsModulesList\GenericTemplate\obj\Release\UberTools.Modules.GenericTemplate.RowCollectionNS.RowCollectionFilterDialog.resources
+C:\Users\Damir\Documents\Visual Studio 2008\Projects\UberTools\UberToolsModulesList\GenericTemplate\obj\Release\UberTools.Modules.GenericTemplate.Forms.TagsBuilder.resources
+C:\Users\Damir\Documents\Visual Studio 2008\Projects\UberTools\UberToolsModulesList\GenericTemplate\obj\Release\UberTools.Modules.GenericTemplate.Forms.Notepad.resources
+C:\Users\Damir\Documents\Visual Studio 2008\Projects\UberTools\UberToolsModulesList\GenericTemplate\obj\Release\UberTools.Modules.GenericTemplate.Forms.ModuleMainForm.resources
+C:\Users\Damir\Documents\Visual Studio 2008\Projects\UberTools\UberToolsModulesList\GenericTemplate\obj\Release\UberTools.Modules.GenericTemplate.RowCollectionNS.FormRowCollectionViewer.resources
+C:\Users\Damir\Documents\Visual Studio 2008\Projects\UberTools\UberToolsModulesList\GenericTemplate\obj\Release\UberTools.Modules.GenericTemplate.Properties.Resources.resources
+C:\Users\Damir\Documents\Visual Studio 2008\Projects\UberTools\UberToolsModulesList\GenericTemplate\obj\Release\GenericTemplate.csproj.GenerateResource.Cache
+C:\Users\Damir\Documents\Visual Studio 2008\Projects\UberTools\UberToolsModulesList\GenericTemplate\obj\Release\GenericTemplate.dll
+C:\Users\Damir\Documents\Visual Studio 2008\Projects\UberTools\UberToolsModulesList\GenericTemplate\obj\Release\GenericTemplate.pdb
+C:\Users\Damir\Documents\Visual Studio 2008\Projects\UberTools\UberToolsModulesList\GenericTemplate\obj\Release\UberTools.Modules.GenericTemplate.RowCollectionFilterItem.resources
+c:\Documents and Settings\Damir\My Documents\Visual Studio 2008\Projects\UberTools\UberToolsModulesList\GenericTemplate\bin\Release\GenericTemplate.dll
+c:\Documents and Settings\Damir\My Documents\Visual Studio 2008\Projects\UberTools\UberToolsModulesList\GenericTemplate\bin\Release\GenericTemplate.pdb
+c:\Documents and Settings\Damir\My Documents\Visual Studio 2008\Projects\UberTools\UberToolsModulesList\GenericTemplate\bin\Release\Common Controls.dll
+c:\Documents and Settings\Damir\My Documents\Visual Studio 2008\Projects\UberTools\UberToolsModulesList\GenericTemplate\bin\Release\Common Library.dll
+c:\Documents and Settings\Damir\My Documents\Visual Studio 2008\Projects\UberTools\UberToolsModulesList\GenericTemplate\bin\Release\Common Library.pdb
+c:\Documents and Settings\Damir\My Documents\Visual Studio 2008\Projects\UberTools\UberToolsModulesList\GenericTemplate\bin\Release\UberToolsPlugins.pdb
+c:\Documents and Settings\Damir\My Documents\Visual Studio 2008\Projects\UberTools\UberToolsModulesList\GenericTemplate\obj\Release\ResolveAssemblyReference.cache
+c:\Documents and Settings\Damir\My Documents\Visual Studio 2008\Projects\UberTools\UberToolsModulesList\GenericTemplate\obj\Release\UberTools.Modules.GenericTemplate.RowCollectionNS.RowCollection.resources
+c:\Documents and Settings\Damir\My Documents\Visual Studio 2008\Projects\UberTools\UberToolsModulesList\GenericTemplate\obj\Release\UberTools.Modules.GenericTemplate.Controls.ToolsWindowsTagsInput.resources
+c:\Documents and Settings\Damir\My Documents\Visual Studio 2008\Projects\UberTools\UberToolsModulesList\GenericTemplate\obj\Release\UberTools.Modules.GenericTemplate.Controls.ToolsWindowsTagsParams.resources
+c:\Documents and Settings\Damir\My Documents\Visual Studio 2008\Projects\UberTools\UberToolsModulesList\GenericTemplate\obj\Release\UberTools.Modules.GenericTemplate.RowCollectionFilterItem.resources
+c:\Documents and Settings\Damir\My Documents\Visual Studio 2008\Projects\UberTools\UberToolsModulesList\GenericTemplate\obj\Release\UberTools.Modules.GenericTemplate.Controls.ToolsWindowsTemplates.resources
+c:\Documents and Settings\Damir\My Documents\Visual Studio 2008\Projects\UberTools\UberToolsModulesList\GenericTemplate\obj\Release\UberTools.Modules.GenericTemplate.Controls.ToolsWindowsTags.resources
+c:\Documents and Settings\Damir\My Documents\Visual Studio 2008\Projects\UberTools\UberToolsModulesList\GenericTemplate\obj\Release\UberTools.Modules.GenericTemplate.InputData.InputDataSource.resources
+c:\Documents and Settings\Damir\My Documents\Visual Studio 2008\Projects\UberTools\UberToolsModulesList\GenericTemplate\obj\Release\UberTools.Modules.GenericTemplate.RowCollectionNS.RowCollectionFilterDialog.resources
+c:\Documents and Settings\Damir\My Documents\Visual Studio 2008\Projects\UberTools\UberToolsModulesList\GenericTemplate\obj\Release\UberTools.Modules.GenericTemplate.Forms.TagsBuilder.resources
+c:\Documents and Settings\Damir\My Documents\Visual Studio 2008\Projects\UberTools\UberToolsModulesList\GenericTemplate\obj\Release\UberTools.Modules.GenericTemplate.Forms.Notepad.resources
+c:\Documents and Settings\Damir\My Documents\Visual Studio 2008\Projects\UberTools\UberToolsModulesList\GenericTemplate\obj\Release\UberTools.Modules.GenericTemplate.Forms.ModuleMainForm.resources
+c:\Documents and Settings\Damir\My Documents\Visual Studio 2008\Projects\UberTools\UberToolsModulesList\GenericTemplate\obj\Release\UberTools.Modules.GenericTemplate.RowCollectionNS.FormRowCollectionViewer.resources
+c:\Documents and Settings\Damir\My Documents\Visual Studio 2008\Projects\UberTools\UberToolsModulesList\GenericTemplate\obj\Release\UberTools.Modules.GenericTemplate.Properties.Resources.resources
+c:\Documents and Settings\Damir\My Documents\Visual Studio 2008\Projects\UberTools\UberToolsModulesList\GenericTemplate\obj\Release\GenericTemplate.csproj.GenerateResource.Cache
+c:\Documents and Settings\Damir\My Documents\Visual Studio 2008\Projects\UberTools\UberToolsModulesList\GenericTemplate\obj\Release\GenericTemplate.dll
+c:\Documents and Settings\Damir\My Documents\Visual Studio 2008\Projects\UberTools\UberToolsModulesList\GenericTemplate\obj\Release\GenericTemplate.pdb

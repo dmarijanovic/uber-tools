@@ -1,0 +1,229 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="3.5" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>9.0.21022</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{C5F323D2-4D99-4B6D-9741-8F9FF556ABC6}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>UberTools.Modules.GenericTemplate</RootNamespace>
+    <AssemblyName>GenericTemplate</AssemblyName>
+    <TargetFrameworkVersion>v3.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Common Controls, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\Common Controls\Common Controls\bin\Release\Common Controls.dll</HintPath>
+    </Reference>
+    <Reference Include="Common Library, Version=1.0.1.1, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\Common Library\Common Library\bin\Release\Common Library.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml.Linq">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Data.DataSetExtensions">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Data" />
+    <Reference Include="System.Xml" />
+    <Reference Include="UberToolsPlugins, Version=1.0.0.325, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\UberToolsPlugins\bin\Release\UberToolsPlugins.dll</HintPath>
+    </Reference>
+    <Reference Include="WindowsFormsIntegration">
+      <RequiredTargetFramework>3.0</RequiredTargetFramework>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Class\ColorMenager_old.cs" />
+    <Compile Include="Class\Settings.cs" />
+    <Compile Include="Class\SyntaxHighlightingMenager.cs" />
+    <Compile Include="Class\TagReplaceClasses\TagObjects\DirObject.cs" />
+    <Compile Include="RowCollection\Controls\RowCollectionFilterItem.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="RowCollection\Controls\RowCollectionFilterItem.Designer.cs">
+      <DependentUpon>RowCollectionFilterItem.cs</DependentUpon>
+    </Compile>
+    <Compile Include="RowCollection\RowCollectionColumn.cs" />
+    <Compile Include="InputData\FileParser.cs" />
+    <Compile Include="InputData\FolderParser.cs" />
+    <Compile Include="InputData\XMLParser2.cs" />
+    <Compile Include="Class\OutputMenager.cs" />
+    <Compile Include="Class\OutputMenagerSettings.cs" />
+    <Compile Include="RowCollection\RowCollectionHelper.cs" />
+    <Compile Include="Class\TagReplaceClasses\TagObjects\ActiveObject.cs" />
+    <Compile Include="Class\TagReplaceClasses\TagObjects\ArrayObject.cs" />
+    <Compile Include="Class\TagReplaceClasses\TagObjects\FileObject.cs" />
+    <Compile Include="Class\TagReplaceClasses\TagObjects\GraphicsObject.cs" />
+    <Compile Include="Class\TagReplaceClasses\TagObjects\InputObject.cs" />
+    <Compile Include="Class\TagReplaceClasses\TagObjects\MatchObject.cs" />
+    <Compile Include="Class\TagReplaceClasses\TagsReplace.Methods.cs">
+      <DependentUpon>TagsReplace.cs</DependentUpon>
+    </Compile>
+    <Compile Include="InputData\TextParser.cs" />
+    <Compile Include="RowCollection\RowCollectionIO.cs" />
+    <Compile Include="RowCollection\RowCollectionRow.cs" />
+    <Compile Include="RowCollection\RowCollectionMenager.cs" />
+    <Compile Include="Class\TagReplaceClasses\TagsReplace.cs" />
+    <Compile Include="Class\TagReplaceClasses\VarObject\VarObjectStruct.cs" />
+    <Compile Include="InputData\XMLParser.cs" />
+    <Compile Include="Templates\TemplatesManager.cs" />
+    <Compile Include="RowCollection\Controls\RowCollection.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="RowCollection\Controls\RowCollection.Designer.cs">
+      <DependentUpon>RowCollection.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Controls\ToolsWindowsTags\ToolsWindowsTagsInput.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Controls\ToolsWindowsTags\ToolsWindowsTagsInput.Designer.cs">
+      <DependentUpon>ToolsWindowsTagsInput.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Controls\ToolsWindowsTags\ToolsWindowsTagsParams.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Controls\ToolsWindowsTags\ToolsWindowsTagsParams.Designer.cs">
+      <DependentUpon>ToolsWindowsTagsParams.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Templates\ToolsWindowsTemplates.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Templates\ToolsWindowsTemplates.Designer.cs">
+      <DependentUpon>ToolsWindowsTemplates.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Controls\ToolsWindowsTags\ToolsWindowsTags.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Controls\ToolsWindowsTags\ToolsWindowsTags.Designer.cs">
+      <DependentUpon>ToolsWindowsTags.cs</DependentUpon>
+    </Compile>
+    <Compile Include="InputData\Forms\InputDataSource.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="InputData\Forms\InputDataSource.Designer.cs">
+      <DependentUpon>InputDataSource.cs</DependentUpon>
+    </Compile>
+    <Compile Include="RowCollection\Forms\RowCollectionFilterDialog.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="RowCollection\Forms\RowCollectionFilterDialog.Designer.cs">
+      <DependentUpon>RowCollectionFilterDialog.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\TagsBuilder.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\TagsBuilder.designer.cs">
+      <DependentUpon>TagsBuilder.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\Notepad.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\Notepad.Designer.cs">
+      <DependentUpon>Notepad.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\ModuleMainForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\ModuleMainForm.Designer.cs">
+      <DependentUpon>ModuleMainForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="RowCollection\Forms\FormRowCollectionViewer.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="RowCollection\Forms\FormRowCollectionViewer.Designer.cs">
+      <DependentUpon>FormRowCollectionViewer.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GenericTemplate.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="RowCollection\Controls\RowCollection.resx">
+      <DependentUpon>RowCollection.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Controls\ToolsWindowsTags\ToolsWindowsTagsInput.resx">
+      <DependentUpon>ToolsWindowsTagsInput.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Controls\ToolsWindowsTags\ToolsWindowsTagsParams.resx">
+      <DependentUpon>ToolsWindowsTagsParams.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="RowCollection\Controls\RowCollectionFilterItem.resx">
+      <DependentUpon>RowCollectionFilterItem.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Templates\ToolsWindowsTemplates.resx">
+      <DependentUpon>ToolsWindowsTemplates.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Controls\ToolsWindowsTags\ToolsWindowsTags.resx">
+      <DependentUpon>ToolsWindowsTags.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="InputData\Forms\InputDataSource.resx">
+      <DependentUpon>InputDataSource.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="RowCollection\Forms\RowCollectionFilterDialog.resx">
+      <DependentUpon>RowCollectionFilterDialog.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\TagsBuilder.resx">
+      <DependentUpon>TagsBuilder.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\Notepad.resx">
+      <DependentUpon>Notepad.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\ModuleMainForm.resx">
+      <DependentUpon>ModuleMainForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="RowCollection\Forms\FormRowCollectionViewer.resx">
+      <DependentUpon>FormRowCollectionViewer.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\WindowsTable.ico" />
+    <Content Include="tags.xml" />
+    <Content Include="UberTools_GenericTemplate_Changelog.txt" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

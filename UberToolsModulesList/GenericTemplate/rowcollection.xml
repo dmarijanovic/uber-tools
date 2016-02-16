@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<DataObject>
+	<Name></Name>
+	<Columns count="3">
+		<Column>Ime</Column>
+		<Column>Prezime</Column>
+		<Column>Age</Column>
+	</Columns>
+	<Rows count="3">
+		<Row>
+			<Column>Damir</Column>
+			<Column>Marijanovic</Column>
+			<Column>30</Column>
+		</Row>
+		<Row>
+			<Column>Goran</Column>
+			<Column>Marijanovic</Column>
+			<Column>32</Column>
+		</Row>
+		<Row>
+			<Column>Toni</Column>
+			<Column>Marijanovic</Column>
+			<Column>37</Column>
+		</Row>
+	</Rows>
+</DataObject>
